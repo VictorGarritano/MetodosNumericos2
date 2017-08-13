@@ -1,2 +1,3 @@
-# MetodosNumericos2
-Anotações de aula da disciplina de Métodos Numéricos 2
+# Metodos Numéricos 2
+Esse repositório contém anotações de aula da disciplina *Métodos Numéricos 2*
+As aulas são divididas em arquivos separados, bem como os exercícios e soluções.
